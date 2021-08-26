@@ -1,0 +1,4 @@
+cachorro
+elefante
+mosca
+humano
